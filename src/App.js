@@ -7,17 +7,18 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+          <h1>The Rotating Image</h1>
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            React App : Mohd Anwar Jamal Faiz
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="http://w3lc.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Click here for my blog :)
           </a>
         </header>
       </div>
